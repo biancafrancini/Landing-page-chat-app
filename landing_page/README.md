@@ -1,12 +1,13 @@
-# Landing page for an instant messaging app called Flyer
+# Landing page for a messaging app called Flyer
 
-A simple landing page for desktop & mobile. 🙌🏻
+A simple and animated landing page for desktop & mobile. 🙌🏻
 
 # Built using: 
 
 - HTML & CSS
 - React.js
-- Tailwind
-- Framer motion
+- Tailwind CSS
+- DaisyUI
+- Framer Motion
 
 
