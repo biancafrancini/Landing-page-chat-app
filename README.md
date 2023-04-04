@@ -1,6 +1,7 @@
 # Landing-page-chat-app
 
-A simple and animated landing page for desktop & mobile.
+A simple and animated landing page for a messaging app called Flyer. 
+Designed for desktop & mobile. 🙌🏻
 
 Built using:
 
