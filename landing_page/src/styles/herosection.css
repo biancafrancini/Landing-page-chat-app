@@ -23,7 +23,7 @@ height: 80px;
   position: absolute;
   left: 5;
   padding-bottom: 10px;
-  animation: 4s linear swingViewport;
+  animation: 2.5s linear swingViewport;
   font-family: sans-serif;
 }
 

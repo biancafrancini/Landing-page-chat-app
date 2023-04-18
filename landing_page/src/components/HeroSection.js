@@ -1,11 +1,9 @@
 import AnimatedCharacters from "./AnimatedCharacters";
 import "../styles/herosection.css";
 import { motion } from "framer-motion";
-import { useState } from "react";
 import {Link} from "react-router-dom"
 
 export const HeroSection = () => {
-  const [replay, setReplay] = useState(true);
   const placeholderText = [
     {
       type: "heading2",
@@ -26,7 +24,7 @@ export const HeroSection = () => {
       className="hero hero-container-all mb-10"
       initial="hidden"
       //animate="visible"
-      animate={replay ? "visible" : "hidden"}
+      animate={"visible"}
       variants={container}>
       <div className="text-left flex flex-wrap items-center hero-titles-container">
       <div className="flex-col titles-container">
